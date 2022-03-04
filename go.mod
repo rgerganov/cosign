@@ -32,7 +32,7 @@ require (
 
 require (
 	cloud.google.com/go/kms v1.0.0 // indirect
-	cuelang.org/go v0.4.0
+	cuelang.org/go v0.4.2
 	github.com/cncf/udpa/go v0.0.0-20210930031921-04548b0d99d4 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v0.6.1 // indirect
