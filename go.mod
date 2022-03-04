@@ -38,7 +38,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v0.6.1 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible // indirect
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20211004163346-9ae11fe20941
-	github.com/google/go-github/v39 v39.1.0
+	github.com/google/go-github/v39 v39.2.0
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/onsi/gomega v1.16.0 // indirect
