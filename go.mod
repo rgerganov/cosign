@@ -25,7 +25,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	google.golang.org/api v0.58.0
 	k8s.io/api v0.21.4
-	k8s.io/apimachinery v0.21.4
+	k8s.io/apimachinery v0.25.0
 	k8s.io/client-go v0.21.4
 	knative.dev/pkg v0.0.0-20211004133827-74ac82a333a4
 )
@@ -41,7 +41,6 @@ require (
 	github.com/google/go-github/v39 v39.1.0
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
-	github.com/onsi/gomega v1.16.0 // indirect
 	github.com/open-policy-agent/opa v0.33.1
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/secure-systems-lab/go-securesystemslib v0.1.0
@@ -50,10 +49,6 @@ require (
 	github.com/xanzy/go-gitlab v0.31.0
 	go.opentelemetry.io/contrib v0.24.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.9.0 // indirect
-	golang.org/x/mod v0.5.1 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
-	k8s.io/klog/v2 v2.20.0 // indirect
-	k8s.io/utils v0.0.0-20210930125809-cb0fa318a74b // indirect
 )
